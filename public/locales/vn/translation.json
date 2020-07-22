@@ -1,0 +1,8 @@
+{
+  "title": "Quản lý nhân sự",
+  "table": {
+    "id": "ID",
+    "name": "Tên",
+    "login": "Đăng nhập"
+  }
+}

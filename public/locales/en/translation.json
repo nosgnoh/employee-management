@@ -1,0 +1,8 @@
+{
+  "title": "Employee management",
+  "table": {
+    "id": "ID",
+    "name": "Name",
+    "login": "Login"
+  }
+}
